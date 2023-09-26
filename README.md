@@ -20,7 +20,6 @@ Download fine-tuned model here: https://drive.google.com/file/d/1qj9FGpkAJr7XJPX
 # Results
 Confusion Matrix:
 ![](https://github.com/Jackdepac/Sports-Video-Classification-Using-Deep-3D-CNNs/blob/main/Confusion_Matrix.png?raw=true)
-
 Class specific performance:
                    precision    recall  f1-score   support
     
