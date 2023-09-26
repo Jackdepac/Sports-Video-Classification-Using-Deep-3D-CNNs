@@ -18,8 +18,10 @@ Training Environment: Lambda Labs Cloud GPUs
 Download fine-tuned model here: https://drive.google.com/file/d/1qj9FGpkAJr7XJPXmt38ziLE0lacIQ_eE/view?usp=sharing
 
 # Results
-See Confusion_Matrix.PNG to see classification details.
+Confusion Matrix:
+![](https://github.com/Jackdepac/Sports-Video-Classification-Using-Deep-3D-CNNs/blob/main/Confusion_Matrix.png?raw=true)
 
+Class specific performance:
                    precision    recall  f1-score   support
     
          archery       0.62      0.86      0.72        37
