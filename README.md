@@ -4,15 +4,24 @@ This project aims to classify sports videos into 30 different sports genres usin
 
 # Dataset Details
 Source: Sports Videos in the Wild (SVW) by the Computer Vision Lab, Michigan State University.
+
 Link: cvlab.cse.msu.edu/project-svw.html
+
 Total Videos: 4200
+
 Categories: 30 sports genres, 44 different actions.
+
 Capturing Device: Smartphones via Coach’s Eye smartphone app developed by TechSmith corporation.
+
 Annotations: Each video is annotated with the sport genre. 40% of the videos have time span for each action and bounding boxes indicating the spatial extent of the action.
+
 Challenges: Multiple actions from the same sport genre, making appearance-based recognition challenging.
-Model Details
+
+# Model Details
 Architecture: 3D CNN ResNet18
+
 Pre-training: The model was pretrained and then fine-tuned adding an additional layer using the SVW dataset.
+
 Training Environment: Lambda Labs Cloud GPUs
 
 # Model
