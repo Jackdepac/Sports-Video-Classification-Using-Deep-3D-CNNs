@@ -4,6 +4,7 @@ This project aims to classify sports videos into 30 different sports genres usin
 
 # Dataset Details
 Source: Sports Videos in the Wild (SVW) by the Computer Vision Lab, Michigan State University.
+Link: cvlab.cse.msu.edu/project-svw.html
 Total Videos: 4200
 Categories: 30 sports genres, 44 different actions.
 Capturing Device: Smartphones via Coach’s Eye smartphone app developed by TechSmith corporation.
